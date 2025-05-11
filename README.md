@@ -1,2 +1,1 @@
-# hastal-kl-bitkitahmini
-Hastalıklı Bitki Tahmini
+Kaggleden alınmış bitki veri seti ile eğittiğim modelin amacı hastalıklı bitkileri hastalık isimelrine göre tespit eden yapay zeka modeli ile masaüstü uygulaması oluşturmak. IDE olarak Pychram ve arayüz olarak qtdesiner kullanılarak hazırlanmıştır.
